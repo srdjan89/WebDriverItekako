@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="itekako.Zadatak4" tests="1" skipped="0" failures="0" errors="0" timestamp="2018-07-17T19:48:03" hostname="DESKTOP-D6LP5OR" time="15.062">
+  <properties/>
+  <testcase name="dayTwoFourth" classname="itekako.Zadatak4" time="15.062"/>
+  <system-out><![CDATA[Asia
+Europe
+Africa
+Australia
+South America
+North America
+Antartica
+]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 2.40.565498 (ea082db3280dd6843ebfb08a625e3eb905c4f5ab) on port 5956
+Only local connections are allowed.
+Jul 17, 2018 9:48:07 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+]]></system-err>
+</testsuite>
